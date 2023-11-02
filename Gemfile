@@ -11,5 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-mermaid'
 end
 
-
+gem "liquid", "~> 4.0.4"
 gem "webrick", "~> 1.8"
